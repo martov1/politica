@@ -1,0 +1,76 @@
+---
+
+
+---
+
+<h2 id="origenes-del-sistema-de-educacion-tecnica">Origenes del sistema de educacion tecnica</h2>
+<p>El sistema educativo a lo largo del siglo 19  se instauro como un sistema de educacion formar que capturaba a las nuevas generaciones <strong>desde la infancia hasta la juventud</strong> y pretendia instruirlas a lo largo de todas las etapas, desde las primeras letras a una profesion final.</p>
+<p>Este encadenamiento donde el niño tiene un <strong>seguimiento desde la infancia hasta su formacion final</strong> es un fenomeno social novedoso</p>
+<p><strong>Se instaura entonces una escuela secundaria dual</strong> con las siguientes posibilidades</p>
+<ul>
+<li>La secundaria tecnica para el obrero</li>
+<li>La secundaria propedeutica para la elite que seguira la universidad</li>
+<li>Algunas escuelas combinaban ambos sistemas, proveyedo tanto una certificacion tecnica como una formacion propedeutica para continuar estudios superiores de tipo tecnico en <strong>algunas</strong> universidades con orientacion puramente tecnica</li>
+</ul>
+<p>El siglo 20 trajo <strong>algunas compicaciones a este modelo</strong></p>
+<ul>
+<li>la masificacion de la educacion y la explosion de la  matricula de las instituciones educativas</li>
+<li>Un mercado laboral mas competitivo, donde se necesitan cada vez mas certificaciones para acceder a puestos que antes no las necesitaban (secundario completo para ser repositor te suena?)
+<ul>
+<li>Como concecuencia a la juventud le resulta cada vez mas complejo obtener trabajo y son emujados a obtener certificaciones cada vez mas avanzadas</li>
+<li>Se percibia que era necesario que la mano de obra tuviera mayor capacidad de pensamiento abstracto y se devaluan los oficios, como concecuencia si habias tenido una educacion tecnica en oficios ahora no podias seguir una carrera universitaria y quedabas estancado fuera de muchas oportunidades laborales</li>
+</ul>
+</li>
+</ul>
+<p>Como concecuencia  se generan grandes crisis de empleo a finales del siglo 20 y <strong>aquellos que quedaron fuera del sistema educativo quedaban en situaciones laborales precarias.</strong></p>
+<h2 id="la-situacion-argentina">La situacion argentina</h2>
+<h3 id="section">1800-1900</h3>
+<p>A mediados de la decada de 1870 se impementa el <strong>sistema de educacion secundaria <em>temprana, es decir durante la juventud</em>, la mayoria de las provincias tenian por lo menos un colegio nacional</strong> y en total registraban 5195 alumnos con una educacion de <strong>caracter propedeutico</strong></p>
+<p>Rapidamente las corrientes del sistema dual se instauraron en el pais  y <strong>ademas de los bachilleratos de las escuelas nacionales</strong> se formaron las siguientes instituciones</p>
+<ul>
+<li><strong>Escuelas secundarias comerciales</strong> - para la formacion de personal contable</li>
+<li><strong>Escuelas secundarias normales</strong> - Para la formacion de docentes primarios</li>
+<li><strong>Escuelas secundarias industriales</strong> - Para la formacion de tecnicos</li>
+</ul>
+<p>Los principales motivos de la creacion de la escuela industrial eran</p>
+<ul>
+<li>
+<p><strong>Atraer a las personas a puestos de trabajo productivo en lugar del empleo publico</strong></p>
+</li>
+<li>
+<p><strong>Generar mandos medios</strong> para la industria (jefes de produccion, capataces etc)</p>
+</li>
+<li>
+<p>Ya alrededor del 1910 se comienzan a abrir <strong>escuelas de artes y oficios</strong> para <strong>abarcar a jovenes y personas que quedaron afuera del sistema educativo temprano</strong>. se podia iniciar con 4to grado de primaria terminado y duraban 3 años, permitian aprender carpinteria, herreria o mecanica.</p>
+</li>
+</ul>
+<h3 id="section-1">1900-2000</h3>
+<p><strong>La explosion de la matricula fue espectacular, a finales de siglo mas de 2/3 de la poblacion en edad escolar se encontraba escolarizada , sinembargo el diseño curricular se mantuvo casi totalmente fijo durante 90</strong> años hasta la reforma de 1993. No fue por falta de atencion que no se modifico el  diseño curricular,  durante estos 90 años se debatio y <strong>resisiteron muchisimas propuestas para vocacionalizar la escuela y hacerla terminal (que no puedas ir a la universidad).</strong> Se hace notar que en la mente de los legisladores <strong>la escuela debia ser un paso previo a la universidad</strong></p>
+<p>Las principales reformas fueron</p>
+<ul>
+<li>La escuela normal se discontinuo en 1960 y se <strong>transfirio la formacion de maestros al nivel terciario</strong></li>
+<li>Se establecio un <strong>ciclo basico comun</strong> a todas las escuelas para garantizar un nivel minimo de educacion media entre todas las modalidades de educacion secundaria.</li>
+</ul>
+<p>Durante este periodo de industrializacion la educacion tecnica toma mucha importancia, llegando a ser el <strong>18% de la matricula nacionapolitica exposicion gallartl</strong> y teniendo su propio organo de gobierno, el consejo nacional de educacion tecnica</p>
+<h3 id="caracteristicas-de-la-poblacion">Caracteristicas de la poblacion</h3>
+<p>Se puede apreciar que a lo largo de este siglo se genera un <strong>gigantezco avance educativo en la poblacion, la mayoria de los jovenes logran una escolarizacion mas extensiva que sus progenitores</strong> en todos los niveles socioeconomicos, apesar de que existe una <strong>correlacion entre el nivel socioeconomico del progenitor y el nivel de escolarizacion de sus hios</strong>.</p>
+<p>Se deja notar que  <strong>los estratos sociales mas bajos encontraron un ascenso muy importante en la educacion media y tecnica</strong> mientras que <strong>los estratos mas altos la encontraron en la educacion superior</strong></p>
+<p>Ademas <strong>la inmensa mayoria de los egresados de escuelas tecnicas ya se encontraba trabajando en la industria, mientras que alrededor de 2/3 se desempeñan en areas</strong> afines a la rama educativa que cursaron (tecnica, economia, etc).</p>
+<h3 id="desindustrializacion-y-decadencia">Desindustrializacion y decadencia</h3>
+<p>Despues de los años 70 la industria perdio protagonismo frente a las politicas neoliberales y se consideraba que el empleo debia concentrarse en el sector terciario (servicios en lugar de manufactura).</p>
+<p><strong>El gobierno nacional entonces limita la cantidad de escuelas creadas y las provincias comienzan a suplir las falencias</strong> con escuelas propias, la escuela industrial, muy dependiente de recursos materiales, comienza a bajar su calidad y pierde protagonismo.</p>
+<p>A su vez las recurrentes crisis economicas,  laborales y <strong>baja del poder adquisitivo evitan que las familias puedan garantizar un minimo apoyo para que los jovenes puedan desempeñarse correctamente en un secundario exigente</strong>.</p>
+<p>Como resultado de los factores mencionados se llega a la <strong>ley de educacion federal</strong>, donde se <strong>transfiere la educacion a las provincias</strong>, que entre otras cosas desarticula la educacion tecnica transformandola en una orientacion polimodal.</p>
+<h3 id="actualidad">2001-actualidad</h3>
+<p>Luego de epocas fuertemente neoliberales <strong>se comienza a reactivar lentamente la industria y como concecuencia el interes por la educacion tecnica</strong> y la demanda social por la educacion tecnia sigue siendo alta, sin embargo al educacion tecnico-profesional se encuentra hoy con ciertas dificultades.</p>
+<ul>
+<li>La matricula de las escuelas tecnicas consiste  fuertemente <strong>en alumnos de pocos recursos y con dificultades tanto materiales como de educacion previa</strong>.</li>
+<li><strong>Las escuelas perdieron contacto con la industria</strong>, esto genera
+<ul>
+<li>Pobre adecuacion de los planes de estudio a la realidad industrial</li>
+<li>Es menos frecuente que los egresados puedan ingresar a la industria gracias a los vinculos que la escuela tienga</li>
+</ul>
+</li>
+<li><strong>Hay gran dificultad de incercion laboral para los recien egresados</strong> ya que se requieren niveles de educacion superior</li>
+</ul>
+
